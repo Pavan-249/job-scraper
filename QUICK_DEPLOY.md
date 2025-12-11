@@ -25,14 +25,7 @@ git push -u origin main
 2. Click **Settings** → **Secrets and variables** → **Actions**
 3. Click **New repository secret** and add:
 
-   **Name:** `EMAIL_SENDER`  
-   **Value:** `pavancseds@gmail.com`
-
-   **Name:** `EMAIL_PASSWORD`  
-   **Value:** `zkne yuqq uycz qckr`
-
-   **Name:** `EMAIL_RECIPIENT`  
-   **Value:** `pavancseds@gmail.com`
+  
 
 ## Step 4: Enable GitHub Actions
 1. Go to **Actions** tab in your repo
