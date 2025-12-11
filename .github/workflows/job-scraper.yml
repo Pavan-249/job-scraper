@@ -36,7 +36,7 @@ jobs:
     
     - name: Upload seen_jobs.json as artifact (optional)
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: seen-jobs
         path: seen_jobs.json
