@@ -28,6 +28,7 @@ COMPANIES_LIST = [
     "HP",
     "Lenovo",
     "Samsung",
+    "Trimble",
     "Twitter",
     "LinkedIn",
     "Snap",
